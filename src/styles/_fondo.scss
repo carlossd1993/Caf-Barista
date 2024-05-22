@@ -1,0 +1,19 @@
+.fondo{
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../assets/fondo.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  top: 0;
+  left: 0;
+}
+.mascara{
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background: $coffee-brown-dark;
+  opacity: .7;
+  top: 0;
+  left: 0;
+}

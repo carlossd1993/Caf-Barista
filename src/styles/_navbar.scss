@@ -1,0 +1,14 @@
+nav{
+  background-color: $caramel;
+  color: $cream;
+  opacity: .8;
+  a{
+    color: $cream!important;
+    &:hover{
+      color: $black!important;
+    }
+  }
+  li:hover{
+    background-color: $coffee-brown-light;
+  }
+}
